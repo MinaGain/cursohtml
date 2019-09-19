@@ -1,0 +1,39 @@
+body {
+background-color : #006600;
+font-family : arial;
+color : White;
+}
+h1 {
+font-size : 36pt;
+font-family : verdana,arial;
+text-decoration : underline;
+text-align : center;
+background-color : black;
+}
+
+h2{
+font-size: 25:
+font-family: time new roman;
+text-align : center;
+color: black;
+}
+
+p {
+font-size : 20px;
+text-indent: 1em; 
+text-align: left;
+font-family : arial,helvetica;
+font-weight : normal;
+}
+
+p.divisor{
+color: black;
+}
+
+a:link{
+color: black;
+}
+
+a:visited{
+color: green;
+}
